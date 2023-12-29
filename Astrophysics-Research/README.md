@@ -7,4 +7,4 @@ My student research with the guidance of Professor Ryan Terrien in the summer of
 - a folder *Example Data* containing a few files with example data used during this project. This gives context for some of the code found in *Data_Cleaner.ipynb*
 - a poster *BT Etalon Research Poster.pdf* which I presented at <a href="https://www.carleton.edu/research/symposium/" target="_blank">Carleton College Undergraduate Research and Internship Symposium</a>
 
-This was my first experience using Python for data analytics and I enjoyed it. It was easy to learn and a potent tool for future analytical projects.
+This was my first experience using Python for data analysis and I enjoyed it. It was easy to learn and a potent tool for future analytical projects.
